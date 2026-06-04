@@ -94,7 +94,7 @@ Bron: https://husite.nl/open-ict/sdgs-bij-open-ict/sdg-toolbox/stakeholderanalys
 
 ## UI-model
 
-![UI-model](documenten/ui-model.png)
+![UI-model](ui-model.png)
 
 ---
 
@@ -163,7 +163,7 @@ Facturatie gebeurt handmatig op basis van kopieën van orders en leverbonnen. Er
 
 De klantenservice ontvangt dagelijks vragen en klachten over te late leveringen, verkeerde producten of kwaliteitsproblemen. Er is geen centraal systeem met klantgegevens of eerdere interacties. Medewerkers moeten daardoor steeds opnieuw dezelfde vragen stellen en klachten worden vaak afzonderlijk opgelost zonder structurele verbetering.
 
-![IST-situatie BPMN](documenten/ist-bpmn.png)
+![IST-situatie BPMN](ist-bpmn.png)
 
 ## 3.2 Knelpunten
 
@@ -191,7 +191,7 @@ ERP, BI en CRM zijn gekoppeld aan de app. Data wordt automatisch gesynchroniseer
 
 Een AI-chatbot is 24/7 beschikbaar voor vragen over producten, allergenen, bestellingen en klachten. Bij ingewikkeldere vragen kunnen klanten live chatten met een medewerker of een terugbelverzoek indienen.
 
-![SOLL-situatie BPMN](documenten/soll-bpmn.png)
+![SOLL-situatie BPMN](soll-bpmn.png)
 
 ## 3.4 GAP-analyse
 
@@ -215,7 +215,7 @@ Een AI-chatbot is 24/7 beschikbaar voor vragen over producten, allergenen, beste
 
 # 4. Productvisie
 
-![Productvisie](documenten/productvisie.png)
+![Productvisie](productvisie.png)
 
 ---
 
@@ -367,7 +367,7 @@ Wanneer is een User Story afgerond en klaar om aan de klant op te leveren?
 
 De sitemap hieronder toont de structuur van de Chocolate Firm app. De pagina's zijn gebaseerd op de MoSCoW-prioritering uit de user stories. Pagina's gemarkeerd met een ★ maken deel uit van het MVP en zijn voorzien van wireframes. Dit zijn de pagina's die voortkomen uit de must have user stories F01, F02, F03, F04, F06, NF08 en NF09. Pagina's zonder ★ vallen onder de should have of could have categorie en worden in een latere versie van de app ontwikkeld.
 
-![Sitemap Chocolate Firm App](documenten/sitemap.png)
+![Sitemap Chocolate Firm App](sitemap.png)
 
 ---
 
@@ -381,11 +381,11 @@ Dashboard met notificaties, geregistreerde producten en snelle toegang tot recep
 
 **Gekoppeld aan:** F01, F02
 
-![Dashboard](documenten/wireframe-dashboard.png)
+![Dashboard](wireframe-dashboard.png)
 
-![Product Registratie QR](documenten/wireframe-register-qr.png)
+![Product Registratie QR](wireframe-register-qr.png)
 
-![Product Registratie Handmatig](documenten/wireframe-register-manual.png)
+![Product Registratie Handmatig](wireframe-register-manual.png)
 
 ---
 
@@ -395,9 +395,9 @@ Toont productinformatie, allergenen, certificeringen en de herkomst van cacao. V
 
 **Gekoppeld aan:** F01, F02
 
-![Mijn Chocolade Details](documenten/wireframe-my-chocolate.png)
+![Mijn Chocolade Details](wireframe-my-chocolate.png)
 
-![Cocoa Journey Map](documenten/wireframe-cocoa-journey.png)
+![Cocoa Journey Map](wireframe-cocoa-journey.png)
 
 ---
 
@@ -407,7 +407,7 @@ Supportpagina met AI-chat en live chat voor vragen en klachten.
 
 **Gekoppeld aan:** F03, F06
 
-![Customer Support Chat](documenten/wireframe-support.png)
+![Customer Support Chat](wireframe-support.png)
 
 ---
 
@@ -417,7 +417,7 @@ Shop met zoekfunctie, filters en productoverzicht. De B2B-versie toont extra inf
 
 **Gekoppeld aan:** F04
 
-![Shop Interface](documenten/wireframe-shop.png)
+![Shop Interface](wireframe-shop.png)
 
 ---
 
